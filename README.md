@@ -34,9 +34,9 @@ Software Engineer in the making | Building with Python, JavaScript & the Cloud
 
 ## 📊 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan9099&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan9099&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan9099&theme=dark" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🏆 Certifications

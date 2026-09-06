@@ -1,0 +1,12 @@
+{
+  "projects": [
+    { "repo": "resume-skill-extractor-api",
+      "description": "AWS Serverless REST API in Python to parse resumes and extract candidate skills using Lambda logic." },
+    { "repo": "dsa-practice",
+      "description": "Solutions to LeetCode, HackerRank, and DSA problems in Python and JavaScript." },
+    { "repo": "AI-Powered-resume-analyser",
+      "description": "AI-powered tool that analyses resumes and surfaces improvement suggestions." },
+    { "repo": "my-full-stack",
+      "description": "A full-stack web application built end-to-end from scratch." }
+  ]
+}

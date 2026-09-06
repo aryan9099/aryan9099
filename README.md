@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/aryan9099">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aryan+Ranjan;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aryan+Ranjan;Frontend+Developer;AWS+Certified;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
